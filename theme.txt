@@ -1,7 +1,7 @@
 #SolarizedDark grub2 theme
 
 title-text: ""
-desktop-color: "#002B36"
+desktop-color: "#002b36"
 terminal-box: "terminal_box_*.png"
 terminal-font: "Gnu Unifont Mono Regular 16"
 
@@ -12,7 +12,7 @@ terminal-font: "Gnu Unifont Mono Regular 16"
   height = 50%
 
   item_font = "DejaVu Sans Bold 12"
-  item_color = "#93A1A1"
+  item_color = "#839496"
   item_height = 32
   item_icon_space = 8
   item_spacing = 2
