@@ -21,9 +21,9 @@ or u can do this manually:
  `GRUB_THEME=/boot/grub2/themes/grub2-solarized-dark/theme.txt`
 
  3. update your grub:
-   1. for Fedora `grub2-mkconfig -o /boot/grub2/grub.cfg`
+   - for Fedora `grub2-mkconfig -o /boot/grub2/grub.cfg`
 UEFI
 `grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg`
 
-   2. for Debian `update-grub`
+   - for Debian `update-grub`
 4. Done!
